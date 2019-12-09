@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/alexaking.xyz/static/css/main.c83ce78d.chunk.css",
+    "main.js": "/alexaking.xyz/static/js/main.a6aaa0ed.chunk.js",
+    "main.js.map": "/alexaking.xyz/static/js/main.a6aaa0ed.chunk.js.map",
+    "runtime-main.js": "/alexaking.xyz/static/js/runtime-main.69b6be56.js",
+    "runtime-main.js.map": "/alexaking.xyz/static/js/runtime-main.69b6be56.js.map",
+    "static/css/2.f0c0c278.chunk.css": "/alexaking.xyz/static/css/2.f0c0c278.chunk.css",
+    "static/js/2.dfbfa7b9.chunk.js": "/alexaking.xyz/static/js/2.dfbfa7b9.chunk.js",
+    "static/js/2.dfbfa7b9.chunk.js.map": "/alexaking.xyz/static/js/2.dfbfa7b9.chunk.js.map",
+    "index.html": "/alexaking.xyz/index.html",
+    "precache-manifest.3d7011e6b76c4548daffd6afcada2440.js": "/alexaking.xyz/precache-manifest.3d7011e6b76c4548daffd6afcada2440.js",
+    "service-worker.js": "/alexaking.xyz/service-worker.js",
+    "static/css/2.f0c0c278.chunk.css.map": "/alexaking.xyz/static/css/2.f0c0c278.chunk.css.map",
+    "static/css/main.c83ce78d.chunk.css.map": "/alexaking.xyz/static/css/main.c83ce78d.chunk.css.map",
+    "static/js/2.dfbfa7b9.chunk.js.LICENSE": "/alexaking.xyz/static/js/2.dfbfa7b9.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69b6be56.js",
+    "static/css/2.f0c0c278.chunk.css",
+    "static/js/2.dfbfa7b9.chunk.js",
+    "static/css/main.c83ce78d.chunk.css",
+    "static/js/main.a6aaa0ed.chunk.js"
+  ]
+}
